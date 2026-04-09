@@ -14,6 +14,9 @@ This project implements an Adaptive Neuro-Fuzzy Inference System (ANFIS) to pred
 - Performance Score
 - Performance Level (Poor / Average / Good)
 
+## Workflow
+Dataset → Preprocessing → ANFIS Training → Testing → Prediction
+
 
 ## Methodology
 - Dataset of 1000 students used
