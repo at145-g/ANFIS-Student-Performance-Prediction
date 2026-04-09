@@ -28,7 +28,8 @@ Dataset → Preprocessing → ANFIS Training → Testing → Prediction
 
 ## Results
 - Training RMSE = 0.0311324  
-- Checking RMSE = 0.0323606  
+- Checking RMSE = 0.0323606
+  Lower RMSE indicates better prediction accuracy. 
 - Best Epoch = 1  
 - Final Test RMSE ≈ 3.24  
 
