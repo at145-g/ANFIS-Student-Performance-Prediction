@@ -24,9 +24,10 @@ This project implements an Adaptive Neuro-Fuzzy Inference System (ANFIS) to pred
 
 
 ## Results
-- Training RMSE ≈ 0.03
-- Testing RMSE ≈ 0.03–0.035
-- Best Epoch ≈ 20
+- Training RMSE = 0.0311324  
+- Checking RMSE = 0.0323606  
+- Best Epoch = 1  
+- Final Test RMSE ≈ 3.24  
 
 
 ## Sample Output
@@ -47,20 +48,17 @@ Performance Level = Good
 
 
 ## Dataset
-Located in `dataset/`
+[View Dataset](dataset/student_performance_1000.xlsx)
 
----
 
 ## Report
 [View Report](report/Q2_Report.pdf)
 
----
 
 ## Tools Used
 - MATLAB
 - ANFIS
 
----
 
 ## Author
 Sumit Gareri
